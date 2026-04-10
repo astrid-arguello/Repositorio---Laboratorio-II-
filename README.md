@@ -6,6 +6,10 @@ Astrid Marcela Arguello Guzman - SMSS029224
 Karen Beatriz Jandres Chavez - SMSS013424
 Yessica Raquel Reyes Juarez - SMSS042624
 
+Datos: 
+El usuario para entrar al login: admin
+Contraseña de usuario: 1234
+
 Apartado #4: Preguntas y Respuestas
 
 1.	¿De qué forma manejaste el login de usuarios? Explica con tus palabras porque en tu página funciona de esa forma.
